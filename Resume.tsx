@@ -79,7 +79,7 @@ const Resume: React.FC<ResumeProps> = ({ onBack }) => {
             <div className="bg-cream p-6 rounded-card border-2 border-mint shadow-[0_10px_20px_-5px_rgba(203,243,210,0.7)] transform transition-all duration-300 hover:-translate-y-1 hover:shadow-xl group relative">
                <h3 className="text-xl font-bold text-gray-700 mb-2 group-hover:text-mint transition-colors">Clinical Experience</h3>
                <p className="text-sm font-bold text-gray-400 mb-1 uppercase tracking-wider">Rotatory Internship</p>
-               <p className="text-gray-500 font-medium">Kantipur Dental College</p>
+               <p className="text-gray-500 font-medium">Kantipur Dental College Teaching Hospital and Research Center</p>
                {/* Decorative dot */}
                <div className="hidden md:block absolute top-1/2 -left-3 w-4 h-4 bg-mint rounded-full transform -translate-y-1/2"></div>
             </div>
