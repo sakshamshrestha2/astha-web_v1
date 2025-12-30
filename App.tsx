@@ -215,7 +215,7 @@ const App: React.FC = () => {
         </div>
 
         <p className="text-2xl font-bold text-white tracking-widest drop-shadow-sm flex items-center gap-2">
-          Gathering sparkles... <Sparkles className="animate-spin-slow" />
+          Gathering Sparkles... <Sparkles className="animate-spin-slow" />
         </p>
       </div>
 
