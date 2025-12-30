@@ -1,0 +1,7 @@
+{
+  "name": "Dr. Astha Pokhrel Portfolio",
+  "description": "A Kawaii, soft UI personal portfolio for Dr. Astha Pokhrel.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
