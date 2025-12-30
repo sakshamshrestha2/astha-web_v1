@@ -312,7 +312,7 @@ const App: React.FC = () => {
                     <div className="bg-cream border-2 border-coral rounded-card p-4 text-center transform transition-all duration-300 hover:-translate-y-2 hover:shadow-lg group cursor-default">
                       <div className="text-3xl mb-2 group-hover:animate-bounce">🍵</div>
                       <h3 className="font-bold text-sm uppercase tracking-wide text-gray-400 mb-1">Coffee or Tea?</h3>
-                      <p className="text-text-dark font-semibold">Green Tea</p>
+                      <p className="text-text-dark font-semibold">Cafe Latte</p>
                     </div>
 
                   </div>
